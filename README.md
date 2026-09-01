@@ -47,5 +47,4 @@ Altere a estrutura do laço para que o jogo termine automaticamente assim que o 
 
 ###
 
-
-#Todos os desafios foram feitos, alterados e testados.
+# Todos os desafios foram feitos, alterados e testados.
