@@ -3,7 +3,7 @@
 
 O programa neste projeto cria um menu onde podemos executar inicialmente dois jogos.
 
-Os jogos estão funcionais, porem incompletos.
+Os jogos estão funcionais, porem estavam incompletos, agora estão completos.
 
 Abaixo seguem as descrições dos jogos:
 
@@ -46,3 +46,5 @@ Em vez de usar strings puras ('pedra', 'papel'), substitua as jogadas por um enu
 Altere a estrutura do laço para que o jogo termine automaticamente assim que o jogador ou o computador alcançar 3 vitórias.
 
 ###
+
+Todos os desafios foram feitos, alterados e testados.
